@@ -16,10 +16,3 @@ Supports multi-file uploads (PDF, DOCX, TXT), document summarization, and automa
 
 ---
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/chittinarora/Mychatbot.git
-cd Mychatbot
