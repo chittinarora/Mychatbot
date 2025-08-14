@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+numpy
+requests
+langchain
+langchain-google-genai
+langchain_huggingface
+langchain_community
+chromadb
+sentence-transformers
+pypdf
+python-docx
+docx2txt
